@@ -9,10 +9,13 @@ I have tried to use all GPT-3 engines to reach the results and the only that giv
 ## OpenAI module is required
 pip install openai
 
-## secrets.py (ignored): Create your own in your local machine.
+## secrets.py (ignored): 
+Create your own in your local machine.
 API_Token = "YOUR AWESOME API"
 
-## prompt.py: Contain the training content for the predictive model
+## prompt.py: 
+Contain the training content for the predictive model
 en_ru
 
-## en-ru.py: Translate English to Russian
+## en-ru.py: 
+Translate English to Russian
