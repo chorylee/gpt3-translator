@@ -11,10 +11,12 @@ pip install openai
 
 ## secrets.py (ignored): 
 Create your own in your local machine.
+
 API_Token = "YOUR AWESOME API"
 
 ## prompt.py: 
 Contain the training content for the predictive model
+
 en_ru
 
 ## en-ru.py: 
