@@ -21,3 +21,6 @@ en_ru
 
 ## en-ru.py
 Translate English to Russian
+
+## ru-en.py
+Translate Russian to English
